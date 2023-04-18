@@ -1,2 +1,1 @@
-# precurs-henry
-este es un repositorio de prueba de modulo2 precurs henry
+este proyector es una prueba de como crear un repositorio y clonarlo desde github a mi computarora
