@@ -1,1 +1,1 @@
-este proyector es una prueba de como crear un repositorio y clonarlo desde github a mi computarora
+este proyector es una prueba de como crear un repositorio y clonarlo desde github a mi computara.
